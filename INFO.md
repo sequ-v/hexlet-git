@@ -1,2 +1,3 @@
-git is awesome!
-experiment with mend
+git is awesome. experiment with amend
+new friday line
+.
